@@ -1,5 +1,5 @@
 # Table Detection Code
-This code is used for detecting tables in images. It is implemented in Python using OpenCV and matplotlib libraries.
+This code is used for detecting tables in flat images. It is implemented in Python using OpenCV and matplotlib libraries.
 
 ## Dependencies
 • Python 3.6 or higher

@@ -3,9 +3,13 @@ This code is used for detecting tables in images. It is implemented in Python us
 
 ## Dependencies
 • Python 3.6 or higher
+
 • OpenCV
+
 • Matplotlib
+
 • PIL
+
 • Numpy
 
 ## Usage
